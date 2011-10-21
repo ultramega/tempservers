@@ -1,0 +1,6 @@
+Hello {USER},
+
+This email confirms your registration at TempServers.com!
+You can now access all of the features available.
+
+{SIGNATURE}

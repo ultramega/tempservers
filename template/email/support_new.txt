@@ -1,0 +1,7 @@
+A new support ticket has been submitted from {USER}.
+
+Title: {TITLE}
+Body:
+{MESSAGE}
+
+{BASEURL}support-view?tid={TID}

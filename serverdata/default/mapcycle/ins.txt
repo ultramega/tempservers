@@ -1,0 +1,12 @@
+ins_abdallah
+ins_almaden
+ins_baghdad
+ins_buhriz
+ins_haditha
+ins_haditha_night
+ins_hillah
+ins_karkar
+ins_ramadi
+ins_sinjar
+ins_samawah
+ins_samawah_day

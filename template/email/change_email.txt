@@ -1,0 +1,9 @@
+Hello {USER},
+
+Since you have changed your email address registered at TempServers, you must confirm the new address to access all site features.
+
+Visit the URL below to confirm your email address.
+
+{BASEURL}account?activate={KEY}
+
+{SIGNATURE}

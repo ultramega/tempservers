@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /terms
+Disallow: /setup
+Disallow: /support
+Disallow: /panel
+Disallow: /feedback
+Allow: /

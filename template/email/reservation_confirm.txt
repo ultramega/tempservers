@@ -1,0 +1,17 @@
+Hello {USER},
+
+We're writing to confirm your reservation at TempServers. If you have received this, your payment has been processed and your server will be ready on schedule.
+
+Your reservation details are as follows:
+
+IP Address: {IP}
+Game: {GAME}
+Time Slot: {TIMESLOT}
+Rcon: {RCON}
+
+FTP Access
+Hostname: {HOST}
+Username: ts{SID}
+Password: {RCON}
+
+{SIGNATURE}

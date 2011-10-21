@@ -1,0 +1,8 @@
+A reply has been posted to the support ticket titled {TITLE}.
+You can view it at:
+{BASEURL}support-view?tid={TID}
+
+Message:
+{MESSAGE}
+
+{SIGNATURE}

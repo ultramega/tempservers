@@ -1,0 +1,50 @@
+{_TITLE:Home}
+{#SCRIPT:[JQUERY]}
+{#SCRIPT:jquery.slides}
+{#SCRIPT:home}
+{{    <div id="sidebar">
+      <div class="block">
+        <div class="top">
+          <h1>Public Beta</h1>
+        </div>
+        <div class="content">
+          <p class="attn">For a limited time, our service will be provided free of charge! <a href="setup">Book a Server</a></p>
+        </div>
+      </div>
+      <div class="block">
+        <div class="top">
+          <h1>Available Games</h1>
+        </div>
+        <div class="content">
+          <ul class="arrow">{=GAMES:            <li>[GAME]</li>}
+          </ul>
+        </div>
+      </div>
+      <div class="block">
+        <div class="top">
+          <h1>News</h1>
+        </div>
+        <div class="content">
+          <ul class="feed">{=FEED:            <li>
+              <div class="caption">[TIME]</div>
+              [ENTRY]
+            </li>}
+          </ul>
+          <div class="center"> <a href="http://twitter.com/tempservers" target="_blank">Follow on Twitter</a> </div>
+        </div>
+      </div>
+    </div>
+    <div id="body">
+      <div class="block" id="slideshow"> <img src="images/splash.gif" alt="Supported Games" width="496" height="232" /> </div>
+      <div class="block">
+        <h1>Welcome to TempServers!</h1>
+        <p class="attn">Our mission is to provide low cost game server rentals for hourly rates instead of the traditional monthly rates of other game server providers. If you need a temporary game server, this is the place to get it!</p>
+      </div>
+      <div class="block">
+        <h2>About TempServers</h2>
+        <p>We have built a completely automated system from the ground up. It is designed to be simple and easy to use, while giving you much control over your server.</p>
+        <p>Reserving a server is easy: just log in to your account, choose a time, choose a game, and check out.</p>
+        <p>You have access to the server configuration to change things such as the server name, password, and any other settings. You will also be able to reboot or change the game running on your server on the fly!</p>
+        <p>TempServers is hosted and managed by <a href="http://www.ultramegatech.com/" target="_blank">UltraMega Tech</a>.</p>
+      </div>
+    </div>

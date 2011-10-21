@@ -1,0 +1,7 @@
+Hello {USER},
+
+In order to complete your registration at TempServers, you must confirm your email address. Visit the URL below to activate your account.
+
+{BASEURL}register?activate={KEY}
+
+{SIGNATURE}
