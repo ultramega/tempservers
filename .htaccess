@@ -9,4 +9,4 @@ RewriteRule ^support\-(list|new)$ support.php?a=$1 [NC,L]
 RewriteCond %{QUERY_STRING} ^tid\=(.*)$ [NC]
 RewriteRule ^support\-view$ support.php?a=view&tid=%1 [NC,L]
 
-RewriteRule ^(account|cp|faq|fb_promo|feedback|ipn|login|order|panel|passreset|register|res|setup|support|terms|user)$ $1.php [NC,L]
+RewriteRule ^(account|cp|faq|ipn|login|order|panel|passreset|register|res|setup|support|terms|user)$ $1.php [NC,L]
